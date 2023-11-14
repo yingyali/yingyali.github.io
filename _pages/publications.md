@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2023
+======
+**Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models** [PDF](https://aclanthology.org/2023.acl-long.877.pdf) Lijing Wang*, Yingya Li*, Timothy Miller, Steven Bethard, Guergana Savova _ _ACL 2023_ _ (* equal contribution)
