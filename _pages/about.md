@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+About Me
+======
 I am currently a postdoc fellow at the [Computational Health Informatics Program (CHIP)](https://www.chip.org/) in Harvard Medical School and Boston Children's Hospital with [Dr. Guergana Savova](https://research.childrenshospital.org/guergana_k_savova/). Prior to my current position, I obtained my Ph.D. in Information Science and Technology from the School of Information Studies at Syracuse University in 2022, advised by [Dr. Bei Yu](https://ischool.syr.edu/bei-yu/). My research broadly fits in natural language processing and its application to clinical narratives and scientific research output. My work has been published in NLP conferences such as ACL, EMNLP, NAACL, and COLING.
 
 
