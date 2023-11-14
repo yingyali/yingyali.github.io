@@ -12,7 +12,6 @@ author_profile: true
 \*Lijing Wang, \*<u>Yingya Li</u>, Timothy Miller, Steven Bethard, Guergana Savova (_*equal contribution_) <br />
 _ACL 2023_ 
 
-
 **Measuring Pointwise V-Usable Information In-Context-ly** [[PDF](https://arxiv.org/pdf/2310.12300.pdf)] <br />
 Sheng Lu, Shan Chen, <u>Yingya Li</u>, Danielle Bitterman, Guergana Savova, Iryna Gurevych <br />
 _To appear at EMNLP 2023_ 
