@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "YY"
+  name             : "Name"
   avatar           : "profile.png"
   bio              : "Postdoc research fellow at Harvard Medical School and Boston Children's Hospital"
   location         : "Boston, MA"
-  employer         : "yingya.li@childrens.harvard.edu"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wHL2oVsAAAAJ&hl=en"
-  email            :
+  email            : "yingya.li@childrens.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
