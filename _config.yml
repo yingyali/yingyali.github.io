@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Name"
   avatar           : "profile.png"
-  bio              : "Postdoc research fellow at Harvard Medical School and Boston Children's Hospital"
+  bio              : #"Postdoc research fellow at Harvard Medical School and Boston Children's Hospital"
   location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
