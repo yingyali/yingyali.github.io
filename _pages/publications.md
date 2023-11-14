@@ -7,8 +7,8 @@ author_profile: true
 
 2023
 ======
-**Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models** [[PDF](https://aclanthology.org/2023.acl-long.877.pdf)] \
-Lijing Wang*, Yingya Li*, Timothy Miller, Steven Bethard, Guergana Savova (_*equal contribution_)
-_ACL 2023_
+**Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models** [[PDF](https://aclanthology.org/2023.acl-long.877.pdf)] \*Lijing Wang, \*Yingya Li, Timothy Miller, Steven Bethard, Guergana Savova _ACL 2023_ (_*equal contribution_)
+
+
 
 
