@@ -16,7 +16,7 @@ _ACL 2023_
 Sheng Lu, Shan Chen, <u>Yingya Li</u>, Danielle Bitterman, Guergana Savova, Iryna Gurevych <br />
 _To appear at EMNLP 2023_ 
 
-**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://aclanthology.org/2023.acl-long.877.pdf)]<br />
+**Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://arxiv.org/pdf/2304.02496.pdf)]<br />
 \*Shan Chen, \*<u>Yingya Li</u>, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana Savova, Danielle S. Bitterman (_*equal contribution_)
 
 
