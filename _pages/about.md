@@ -13,8 +13,8 @@ I am currently a postdoc research fellow in the [Computational Health Informatic
 
 
 **News**<br />
-Our paper **Measuring Pointwise V-Usable Information In-Context-ly** has been accepted to EMNLP 2023!
+Our paper Measuring Pointwise V-Usable Information In-Context-ly has been accepted to EMNLP 2023!
 
 Our evaluation of the ChatGPT family of models has been accepted to present at the MIT-MGB AI Cures Conference 2023!
 
-Our paper **Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models** has been accepted to ACL 2023!
+Our paper Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models has been accepted to ACL 2023!
