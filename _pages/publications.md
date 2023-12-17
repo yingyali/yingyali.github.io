@@ -13,9 +13,9 @@ author_profile: true
 \*Lijing Wang, \*<u>Yingya Li</u>, Timothy Miller, Steven Bethard, Guergana Savova (_*equal contribution_) <br />
 _ACL 2023_ 
 
-**Measuring Pointwise V-Usable Information In-Context-ly** [[PDF](https://arxiv.org/pdf/2310.12300.pdf)] <br />
+**Measuring Pointwise V-Usable Information In-Context-ly** [[PDF](https://aclanthology.org/2023.findings-emnlp.1054.pdf)] <br />
 Sheng Lu, Shan Chen, <u>Yingya Li</u>, Danielle Bitterman, Guergana Savova, Iryna Gurevych <br />
-_To appear at Findings EMNLP 2023_ 
+_Findings EMNLP 2023_ 
 
 **Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://arxiv.org/pdf/2304.02496.pdf)]<br />
 \*Shan Chen, \*<u>Yingya Li</u>, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana Savova, Danielle S. Bitterman (_*equal contribution_)
