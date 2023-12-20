@@ -13,7 +13,7 @@ I am currently a postdoc research fellow in the [Computational Health Informatic
 
 
 **News**<br />
-Our paper Evaluating the ChatGPT Family of Models for Biomedical Reasoning and Classification has been accepted by JAMIA!
+Our paper Evaluating the ChatGPT Family of Models for Biomedical Reasoning and Classification has been accepted to JAMIA!
 
 Our paper Measuring Pointwise V-Usable Information In-Context-ly has been accepted to EMNLP 2023!
 
