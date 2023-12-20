@@ -14,7 +14,7 @@ author_profile: true
 _ACL 2023_ 
 
 **Evaluating the ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://arxiv.org/pdf/2304.02496.pdf)]<br />
-\*Shan Chen, \*<u>Yingya Li</u>, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana Savova, Danielle S. Bitterman (_*equal contribution_)
+\*Shan Chen, \*<u>Yingya Li</u>, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana Savova, Danielle S. Bitterman (_*equal contribution_) <br />
 _JAMIA_ 
 
 **Measuring Pointwise V-Usable Information In-Context-ly** [[PDF](https://aclanthology.org/2023.findings-emnlp.1054.pdf)] <br />
