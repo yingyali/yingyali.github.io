@@ -7,15 +7,17 @@ author_profile: true
 
 **Selected Publications** <br />
 
+**2024** <br />
+
+**Evaluating the ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://arxiv.org/pdf/2304.02496.pdf)]<br />
+\*Shan Chen, \*<u>Yingya Li</u>, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana Savova, Danielle S. Bitterman (_*equal contribution_) <br />
+_JAMIA_ 
+
 **2023** <br />
 
 **Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models** [[PDF](https://aclanthology.org/2023.acl-long.877.pdf)] <br />
 \*Lijing Wang, \*<u>Yingya Li</u>, Timothy Miller, Steven Bethard, Guergana Savova (_*equal contribution_) <br />
 _ACL 2023_ 
-
-**Evaluating the ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://arxiv.org/pdf/2304.02496.pdf)]<br />
-\*Shan Chen, \*<u>Yingya Li</u>, Sheng Lu, Hoang Van, Hugo JWL Aerts, Guergana Savova, Danielle S. Bitterman (_*equal contribution_) <br />
-_JAMIA_ 
 
 **Measuring Pointwise V-Usable Information In-Context-ly** [[PDF](https://aclanthology.org/2023.findings-emnlp.1054.pdf)] <br />
 Sheng Lu, Shan Chen, <u>Yingya Li</u>, Danielle Bitterman, Guergana Savova, Iryna Gurevych <br />
