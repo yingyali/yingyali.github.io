@@ -7,6 +7,8 @@ author_profile: true
 
 **Selected Publications** <br />
 
+Please refer to my [Google Scholar (https://scholar.google.com/citations?hl=en&user=wHL2oVsAAAAJ&view_op=list_works&sortby=pubdate)] for the most recent publications. <br />
+
 **2024** <br />
 
 **Evaluating the ChatGPT Family of Models for Biomedical Reasoning and Classification** [[PDF](https://arxiv.org/pdf/2304.02496.pdf)]<br />
