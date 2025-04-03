@@ -7,7 +7,7 @@ author_profile: true
 
 **Selected Publications** <br />
 
-Please refer to my [[PDF](https://aclanthology.org/2023.acl-long.877.pdf)] for the most recent publications. <br />
+Please refer to my [Google Scholar(https://scholar.google.com/citations?user=wHL2oVsAAAAJ&hl=en)] for the most recent publications. <br />
 
 **2024** <br />
 
