@@ -7,7 +7,7 @@ author_profile: true
 
 **Selected Publications** <br />
 
-Please refer to my [Google Scholar](https://scholar.google.com/citations?user=wHL2oVsAAAAJ&hl=en) for the most recent publications. <br />
+Please refer to my [Google Scholar](https://scholar.google.com/citations?user=wHL2oVsAAAAJ&hl=en) for a full list of publications. <br />
 
 **2024** <br />
 
