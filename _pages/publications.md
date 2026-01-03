@@ -11,13 +11,13 @@ For an up-to-date list, please refer to my [Google Scholar](https://scholar.goog
 
 **2025** <br />
 
-**WorldMedQA-V: A Multilingual, Multimodal Medical Examination Dataset for Multimodal Language Models Evaluation** [[PDF](https://aclanthology.org/2025.findings-naacl.402.pdf)] <br />
-João Matos, Shan Chen, Siena Kathleen V. Placino, <u>Yingya Li</u>, Timothy Miller, Steven Bethard, Guergana Savova  <br />
-_Findings NAACL 2025_ 
-
 **Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information** [[PDF](https://arxiv.org/abs/2410.12774)]<br />
 <u>Yingya Li</u>, Timothy Miller, Steven Bethard, Guergana Savova <br />
 _Journal of Biomedical Informatics_ 
+
+**WorldMedQA-V: A Multilingual, Multimodal Medical Examination Dataset for Multimodal Language Models Evaluation** [[PDF](https://aclanthology.org/2025.findings-naacl.402.pdf)] <br />
+João Matos, Shan Chen, Siena Kathleen V. Placino, <u>Yingya Li</u>, Timothy Miller, Steven Bethard, Guergana Savova  <br />
+_Findings NAACL 2025_ 
 
 **Evaluating Large Language Model Performance to Support the Diagnosis and Management of Patients with Primary Immune Disorders** [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0091674925001666)]<br />
 \*Nicholas L. Rider, \*<u>Yingya Li</u>, Aaron T. Chin, et al. (_*equal contribution_) <br />
